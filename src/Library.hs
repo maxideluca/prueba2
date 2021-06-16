@@ -1,5 +1,2 @@
-module Library where
-import PdePreludat
-
-doble :: Number -> Number
-doble numero = numero + numero
+sumaruno :: Int->Int
+sumaruno n=n+1
